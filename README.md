@@ -33,22 +33,19 @@ entender:
 1.  Clone o projeto:
 
 ```
-
-    git clone https://github.com/seu-repo/desafio-01
-
+git clone https://github.com/fabianoqss/Desafio-01-Componentes-Injecao
+```
 2.  Acesse o diretório:
 
 
 ```
-
-    cd desafio-01
-
+cd desafio-01
+```
 3.  Execute:
 
 ```
-
-    mvn spring-boot:run
-
+mvn spring-boot:run
+```
 ## 📚 Conceitos aprendidos
 
 - Inversão de Controle (IoC)
@@ -61,4 +58,3 @@ entender:
 - Java 17+
 - Spring Boot 3+
 - Maven
-```
