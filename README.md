@@ -32,23 +32,18 @@ entender:
 
 1.  Clone o projeto:
 
-```{=html}
-
 ```
 
     git clone https://github.com/seu-repo/desafio-01
 
 2.  Acesse o diretório:
 
-```{=html}
 
 ```
 
     cd desafio-01
 
 3.  Execute:
-
-```{=html}
 
 ```
 
@@ -66,3 +61,4 @@ entender:
 - Java 17+
 - Spring Boot 3+
 - Maven
+```
